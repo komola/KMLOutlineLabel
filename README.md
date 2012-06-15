@@ -7,7 +7,7 @@ Simple UILabel drop-in replacement to add a customizable outline to labels.
 
 Just add the following line to the file you want to use KMLOutlineLabel in.
 
-```
+``
 #import "KMLOutlineLabel.h"
 ```
 
@@ -22,3 +22,7 @@ myLabel.text = @"My supercool outlined text!";
 
 [self.view addSubview:myLabel];
 ```
+
+### Credits
+
+Original code by [kprevas](http://stackoverflow.com/users/173421/kprevas) in his [stackoverflow answer](http://stackoverflow.com/a/1424665)
